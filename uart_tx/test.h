@@ -1,3 +1,17 @@
+/*
+ * This file is part of verilog_programming
+ *
+ * Copyright (C) 2026 Costantino
+ *
+ * This file is a modified version from: Verilog, Formal Verification and Verilator Beginner's Tutorial
+ * Copyright (C) Dan Gisselquist, Ph.D.
+ *               Gisselquist Technology, LLC
+ * Licensed under GPLv3 or later.
+ *
+ * Modifications:
+ * - minor modifications
+ */
+
 #include <stdio.h>
 #include <stdint.h>
 #include <verilated_vcd_c.h>
